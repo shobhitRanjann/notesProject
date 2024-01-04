@@ -25,8 +25,16 @@ Note Endpoints
 
 ## Important!
 
-Frontend for this project is -> [here](https://github.com/shobhitRanjann/onlineStore-springBoot)
-it is made in reactJs. All the steps to make it run are available there.
+Make sure the username and password of your mysql server is 
+username: root
+password:root
+In case it is different, you can go to path ```notesManager/src/main/resources/application.yaml``` and ```UserGateway/src/main/resources/application.yaml``` and change the line of code where username and password is written like 
+    username: root
+    password: root
+
+also the name of database must be create with name
+usernotesdetails
+notesuserdetails
 
 Happy Coding 😊
 ## API Reference
