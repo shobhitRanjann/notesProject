@@ -28,13 +28,13 @@ Note Endpoints
 Make sure the username and password of your mysql server is 
 username: root
 password:root
-In case it is different, you can go to path ```notesManager/src/main/resources/application.yaml``` and ```UserGateway/src/main/resources/application.yaml``` and change the line of code where username and password is written like 
-    username: root
-    password: root
+In case it is different, you can go to path ```notesManager/src/main/resources/application.yaml``` and ```UserGateway/src/main/resources/application.yaml``` and change the line of code where username and password is written like \n
+    ```username: root \n
+    password: root``` \n
 
-also the name of database must be create with name
-usernotesdetails
-notesuserdetails
+also the name of database must be create with name \n
+```usernotesdetails \n
+notesuserdetails``` \n
 
 Happy Coding 😊
 ## API Reference
