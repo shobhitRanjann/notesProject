@@ -32,9 +32,9 @@ In case it is different, you can go to path ```notesManager/src/main/resources/a
     ```username: root```  
     ```password: root``` 
 
-also the name of database must be create with name 
-```usernotesdetails```  
-```notesuserdetails``` 
+also the name of database must be already created with names 
+* ```usernotesdetails```  
+* ```notesuserdetails``` 
 
 Happy Coding 😊
 ## API Reference
